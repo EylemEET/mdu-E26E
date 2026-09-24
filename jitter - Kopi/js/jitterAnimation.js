@@ -12,7 +12,7 @@ const animation = lottie.loadAnimation({
   renderer: 'svg',
   loop: true,
   autoplay: true,
-  path: '../billeder/jitterframe.json' // Stien til din jitter-json fil
+  path: 'billeder/jitterframe.json' // Stien til din jitter-json fil
 });
 
 // sæt størrelsen på containeren
